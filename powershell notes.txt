@@ -1,2 +1,0 @@
-get-help 
-when a parameter doesnt have its data inside [] square bracket that parameter becomes compuslory
